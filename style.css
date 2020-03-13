@@ -1,3 +1,9 @@
+#nav-contain {
+  float: left;
+  width: 100%;
+  position: relative;
+  text-align: center; 
+}
 #navigation ul {
   list-style-type: none;
   margin: 0;
