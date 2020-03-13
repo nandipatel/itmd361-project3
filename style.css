@@ -1,5 +1,7 @@
 #navigation ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 #navigation ul li {
@@ -8,5 +10,5 @@
 
 #navigation ul li a {
   display: block;
-  text-decorcation: none;
+  text-decoration: none;
 }
