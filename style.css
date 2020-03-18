@@ -24,8 +24,15 @@
   text-decoration: none;
 }
 
-#font{
+#page1{
+  width: 960px;
+  right: 180px;
+  left: 180px;
   font-family: 'Caladea', serif;
+}
+
+#page1.middle{
+  width: 600px;
 }
 
 #title {
