@@ -35,7 +35,9 @@
 #block3{
   border: 2px solid black;
 }
-
+#center {
+  text-align: center;
+}
 #page1.context{
   width: 960px;
 }
