@@ -9,7 +9,7 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: inline: block;
+  display: inline-block;
   vertical-align: top;
 }
 
@@ -19,6 +19,7 @@
 
 #navigation ul li a {
   display: block;
+  color: white; 
   text-decoration: none;
 }
 
