@@ -19,7 +19,7 @@
 }
 
 #navigation ul li a {
-  display: block;
+  display: inline-block;
   color: white;
   text-decoration: none;
 }
