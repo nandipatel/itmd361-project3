@@ -16,13 +16,22 @@
 
 #navigation ul li {
   float: left;
-
 }
 
 #navigation ul li a {
   display: inline-block;
   color: white;
   text-decoration: none;
+}
+
+#block1{
+  border: 2px soild black;
+}
+#block2{
+  border: 2px soild black;
+}
+#block3{
+  border: 2px soild black;
 }
 
 #page1.context{
