@@ -30,3 +30,23 @@ text-align: center;
 #section1 {
   background-color: rgb(255, 224, 194);
 }
+
+#border1{
+  border: 2px soild black;
+  border-radius: 5px;
+}
+
+#border2{
+  border: 2px soild black;
+  border-radius: 5px;
+}
+
+#border3{
+  border: 2px soild black;
+  border-radius: 5px;
+}
+
+#border4{
+  border: 2px soild black;
+  border-radius: 5px;
+}
