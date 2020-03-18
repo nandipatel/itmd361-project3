@@ -22,6 +22,7 @@
 #navigation ul li a {
   display: inline-block;
   color: white;
+  padding: 15px;
   text-decoration: none;
 }
 
@@ -53,6 +54,7 @@
 #page2{
   left: 18%;
   right: 18%;
+  font-family: 'Viaoda Libre', cursive;
 }
 #page2.middle {
   width: 64%;
