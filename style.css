@@ -19,12 +19,12 @@
 
 #navigation ul li a {
   display: block;
-  color: white; 
+  color: white;
   text-decoration: none;
 }
 
 #pg2title {
-
+text-align: center;
 }
 
 #section1 {
