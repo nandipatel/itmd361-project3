@@ -24,6 +24,10 @@
   text-decoration: none;
 }
 
+#font{
+  font-family: 'Caladea', serif;
+}
+
 #title {
 text-align: center;
 }
