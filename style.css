@@ -10,7 +10,7 @@
   margin: 0;
   padding: 0;
   display: inline-block;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #333;
 }
 
@@ -52,6 +52,7 @@
 
 #page2.context {
   width: 80%;
+  background-color: black;
 }
 #page2{
   left: 18%;
