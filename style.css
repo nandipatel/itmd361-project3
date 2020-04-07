@@ -70,7 +70,7 @@
   background-image: url(page2_back.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100px 80px;
+  background-size: 500px 280px;
   padding: 15px;
 }
 
@@ -87,21 +87,21 @@ padding-top: 9px;
   border: 2px dashed black;
   border-radius: 5px;
   background-color: rgb(255, 224, 194);
-  padding-bottom: 2px;
+  padding-bottom: 4px;
 }
 
 #border2{
   border: 2px dashed black;
   border-radius: 5px;
   background-color: rgb(235, 245, 251);
-  padding-bottom: 2px;
+  padding-bottom: 4px;
 }
 
 #border3{
   border: 2px dashed black;
   border-radius: 5px;
   background-color: rgb(235, 245, 251);
-  padding-bottom: 2px;
+  padding-bottom: 4px;
 }
 
 #border4{
