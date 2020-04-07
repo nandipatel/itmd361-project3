@@ -60,10 +60,10 @@
   font-family: 'Fondamento', cursive;
   text-align: center;
   list-style-type: none;
+  list-style-type: none;
 }
 #page2.middle {
   width: 64%;
-  list-style-type: none;
 }
 
 #page3{
@@ -78,34 +78,26 @@ background-size: auto;
 padding: 15px;
 }
 
-#section1 {
-  background-color: rgb(255, 224, 194);
-}
-
-#section2 {
-  background-color: rgb(235, 245, 251);
-}
-
-#section3 {
-  background-color: rgb(234, 250, 241);
-}
-
 #border1{
   border: 2px solid black;
   border-radius: 5px;
+    background-color: rgb(255, 224, 194);
 }
 
 #border2{
   border: 2px solid black;
   border-radius: 5px;
+    background-color: rgb(235, 245, 251);
 }
 
 #border3{
   border: 2px solid black;
   border-radius: 5px;
+  background-color: rgb(235, 245, 251);
 }
 
 #border4{
   border: 2px solid black;
   border-radius: 5px;
+  background-color: rgb(234, 250, 241);
 }
