@@ -63,16 +63,22 @@
   background-color: black;
 }
 
+#page2T{
+  text-align: center;
+  padding-top: 5px;
+  background-image: url(page2_back.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding: 15px;
+}
+
 #page3{
   font-family: 'Sacramento', cursive;
 }
 
 #title {
 text-align: center;
-background: url(img_page2_back.jpg);
-background-repeat: no-repeat;
-background-size: auto;
-padding: 15px;
+padding-top: 5px;
 }
 
 #border1{
