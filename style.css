@@ -38,9 +38,7 @@
 #center {
   text-align: center;
 }
-#page1.context{
-  width: 960px;
-}
+
 #page1{
   width: 800px;
   height: 800px;
@@ -50,18 +48,17 @@
 #page2.context {
   width: 80%;
   background-color: black;
+  list-style-type: none;
 }
 #page2{
   left: 18%;
   right: 18%;
   font-family: 'Fondamento', cursive;
-  text-align: center;
+  text-align: left;
   list-style-type: none;
-  list-style-type: none;
+  background-color: black;
 }
-#page2.middle {
-  width: 64%;
-}
+
 #page2.body{
   background-color: black;
 }
