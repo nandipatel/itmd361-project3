@@ -44,7 +44,10 @@
   width: 800px;
   height: 800px;
   font-family: 'Times New Roman', serif;
-  background-color: #D634EC;
+}
+
+#fullpg{
+  background-color: #CCE0EB;
 }
 
 #page2.context {
