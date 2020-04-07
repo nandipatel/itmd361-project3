@@ -71,6 +71,10 @@
 
 #title {
 text-align: center;
+background: url (page2_back.jpg)
+background-repeat: no-repeat;
+background-size: auto;
+padding: 15px;
 }
 
 #section1 {
