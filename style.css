@@ -66,10 +66,11 @@
 
 #page2T{
   text-align: center;
-  padding-top: 5px;
+  padding-top: 9px;
   background-image: url(page2_back.jpg);
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center;
+  background-size: contain;
   padding: 15px;
 }
 
@@ -79,7 +80,7 @@
 
 #title {
 text-align: center;
-padding-top: 5px;
+padding-top: 9px;
 }
 
 #border1{
