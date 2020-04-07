@@ -40,6 +40,7 @@
 }
 
 #page1{
+  left: auto;
   width: 800px;
   height: 800px;
   font-family: 'Times New Roman', serif;
@@ -47,13 +48,13 @@
 
 #page2.context {
   width: 80%;
-  background-color: black;
   list-style-type: none;
 }
 #page2{
   left: 18%;
   right: 18%;
   font-family: 'Fondamento', cursive;
+  color: white;
   text-align: left;
   list-style-type: none;
   background-color: black;
