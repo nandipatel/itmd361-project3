@@ -71,7 +71,7 @@
   background-image: url(page2_back.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
-  background-size: 500px 280px;
+  background-size: cover;
   padding: 15px;
 }
 
@@ -110,4 +110,8 @@ padding-top: 9px;
   border: 2px dashed black;
   border-radius: 5px;
   background-color: rgb(234, 250, 241);
+}
+
+#pic1{
+  position: absolute;
 }
