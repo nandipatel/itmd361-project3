@@ -52,8 +52,11 @@
   background-color: #CCE0EB;
 }
 
-#page2{
+#fullpg2{
   background-color: #1E2122;
+}
+
+#page2{
   margin: auto;
   width: 900px;
   height: 900px;
@@ -76,7 +79,6 @@
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
-  background-color: #1E2122;
 }
 
 #page3{
