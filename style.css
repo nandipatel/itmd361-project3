@@ -70,10 +70,12 @@
 #page2.body{
   background-color: #1E2122;
 }
-
+h2{
+  font-size: 15px;
+}
 #page2T{
   text-align: center;
-  font-size: 15px;
+  font-size: 25px;
   padding-top: 9px;
   display: block;
   background-image: url(page2_back.jpg);
