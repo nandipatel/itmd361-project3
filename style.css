@@ -53,13 +53,14 @@
 }
 
 #page2.context {
-  width: 80%;
+
   list-style-type: none;
 
 }
 #page2{
-  left: 18%;
-  right: 18%;
+  margin: auto;
+  width: 800px;
+  height: 800px;
   font-family: 'Fondamento',cursive;
   color: white;
   text-align: left;
@@ -124,18 +125,21 @@ padding-top: 9px;
 }
 
 #pic1{
-  position: relative;
-
+  display: block;
+  margin-left: auto;
 }
 
 #pic2{
-  position: relative;
+  display: block;
+  margin-left: auto;
 }
 
 #pic3{
-  position: relative;
+  display: block;
+  margin-left: auto;
 }
 
 #pic4{
-  position: relative;
+  display: block;
+  margin-left: auto;
 }
