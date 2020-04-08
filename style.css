@@ -45,6 +45,7 @@
   width: 800px;
   height: 800px;
   font-family: 'Times New Roman', serif;
+  background-color: #CCE0EB;
 }
 
 #fullpg{
@@ -54,6 +55,7 @@
 #page2.context {
   width: 80%;
   list-style-type: none;
+
 }
 #page2{
   left: 18%;
@@ -71,7 +73,7 @@
 
 #page2T{
   text-align: center;
-  font-size: 9px;
+  font-size: 15px;
   padding-top: 9px;
   display: block;
   background-image: url(page2_back.jpg);
