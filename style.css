@@ -72,11 +72,14 @@
 #page2T{
   text-align: center;
   padding-top: 9px;
+  display: block;
   background-image: url(page2_back.jpg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
   padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #page3{
@@ -117,5 +120,17 @@ padding-top: 9px;
 }
 
 #pic1{
+  position: relative;
+}
+
+#pic2{
+  position: relative;
+}
+
+#pic3{
+  position: relative;
+}
+
+#pic4{
   position: relative;
 }
