@@ -125,9 +125,8 @@ padding-top: 9px;
 }
 
 #pic1{
-  position: absolute;
-  top: 0px;
-  right: 0px;
+  position: relative;
+
 }
 
 #pic2{
