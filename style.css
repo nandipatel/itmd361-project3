@@ -48,7 +48,7 @@
   background-color: #CCE0EB;
 }
 
-#fullpg.body{
+#fullpg{
   background-color: #CCE0EB;
 }
 
@@ -63,14 +63,11 @@
   list-style-type: none;
 }
 
-#page2.body{
-  background-color: #1E2122;
-}
 
 #page2T{
   text-align: center;
   font-size: 25px;
-  letter-spacing: 9px;
+  letter-spacing: 15px;
   padding-top: 10px;
   display: block;
   background-image: url(page2_back.jpg);
