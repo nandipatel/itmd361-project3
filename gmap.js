@@ -19,21 +19,24 @@ function initMap() {
   var marker1 = new google.maps.Marker({
     map: map,
     animation: google.maps.Animation.DROP,
-    position: pearlm
+    position: pearlm,
+    title: "Pearl Mosque"
   });
   marker1.addListener('click', toggleBounce);
 
   var marker2 = new google.maps.Marker({
     map: map
     animation: google.maps.Animation.DROP,
-    position: tajm
+    position: tajm,
+    title: "Taj Mahal"
   });
   marker2.addListener('click', toggleBounce);
 
   var marker3 = new google.maps.Marker({
     map: map,
     animation: google.maps.Animation.DROP,
-    position: tomb
+    position: tomb,
+    title:"Tomb of Akbar the Great"
   });
   marker3.addListener('click', toggleBounce);
 
