@@ -20,21 +20,21 @@ function initMap() {
     map: map,
     animation: google.maps.Animation.DROP,
     position: pearlm
-  )};
+  });
   marker1.addListener('click', toggleBounce);
 
   var marker2 = new google.maps.Marker({
     map: map
     animation: google.maps.Animation.DROP,
     position: tajm
-  )};
+  });
   marker2.addListener('click', toggleBounce);
 
   var marker3 = new google.maps.Marker({
     map: map,
     animation: google.maps.Animation.DROP,
     position: tomb
-  )};
+  });
   marker3.addListener('click', toggleBounce);
 
 }
