@@ -1,15 +1,13 @@
-var map;
-
 function initMap() {
-  map = new google.maps.Map(document.getElementById('map');
+  var map = new google.maps.Map(document.getElementById('map');
 
-  var mainLoc = new google.maps.LatLng (27.1767, 78.0081);
+  var mainLoc = {new google.maps.LatLng (}27.1767, 78.0081);
 
-  var pearlm = new google.maps.LatLng (27.1804, 78.0216);
+  var pearlm = {lat: 27.1804, lgn: 78.0216};
 
-  var tajm = new google.maps.LatLng (27.1751, 78.0421);
+  var tajm = {lat: 27.1751, lgn: 78.0421};
 
-  var tomb = new google.maps.LatLng (27.2206, 77.9505);
+  var tomb = {lat: 27.2206, lgn: 77.9505};
 
   var mapOptions = {
     center: mainLoc,
