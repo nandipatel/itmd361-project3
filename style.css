@@ -102,6 +102,9 @@
 @media only screen and (max-width: 700px) {
   #page3 {
     background-color: grey;
+    margin: auto;
+    width: 800px;
+    height: 800px;
   }
 }
 
