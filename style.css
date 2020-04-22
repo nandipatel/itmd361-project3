@@ -103,16 +103,16 @@
   #page1{
     background-color: grey;
     margin: auto;
-    width: 900px;
-    height: 900px;
+    width: 650px;
+    height: 650px;
   }
 }
 
 @media only screen and (max-width: 700px) {
   #page2{
     margin: auto;
-    width: 800px;
-    height: 800px;
+    width: 650px;
+    height: 650px;
     background-color: #CCE0EB;
   }
 
