@@ -99,6 +99,12 @@
   margin: 0;
 }
 
+@media only screen and (max-width: 700px) {
+  #page3 {
+    background-color: grey;
+  }
+}
+
 #title {
 text-align: center;
 padding-top: 9px;
