@@ -151,15 +151,17 @@ padding-top: 9px;
 }
 
 #pic1{
+<<<<<<< HEAD
   padding: 0px;
   margin-top: 80px;
+=======
+>>>>>>> 1a7067bc6846d943d8af850f0643cb5c64493fd8
   width: 40%;
   display: block;
   margin-left: auto;
 }
 
 #pic2{
-  padding: 0px;
   width: 40%;
   display: block;
   margin-left: auto;
@@ -189,4 +191,9 @@ padding-top: 9px;
   margin: 0;
   padding: 0;
   background-color: #CCE0EB;
+}
+html, body {
+  height: 80%;
+  margin: 0;
+  padding: 0;
 }
