@@ -151,14 +151,10 @@ padding-top: 9px;
 }
 
 #pic1{
-<<<<<<< HEAD
   padding: 0px;
-  margin-top: 80px;
-=======
->>>>>>> 1a7067bc6846d943d8af850f0643cb5c64493fd8
   width: 40%;
   display: block;
-  margin-left: auto;
+  margin-top: 80px;
 }
 
 #pic2{
