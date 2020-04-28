@@ -154,7 +154,8 @@ padding-top: 9px;
   padding: 0px;
   width: 40%;
   display: block;
-  margin-top: 80px;
+  margin-top: auto;
+  margin-left: auto;
 }
 
 #pic2{
