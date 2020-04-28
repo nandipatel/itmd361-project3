@@ -189,3 +189,8 @@ padding-top: 9px;
   padding: 0;
   background-color: #CCE0EB;
 }
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
