@@ -11,6 +11,15 @@ function initMap() {
     map: map,
     title: 'Agra'
   });
+  var panorama = new google.maps.StreetViewPanorama(
+      document.getElementById('pano'), {
+        position: mainLoc,
+        pov: {
+          heading: 34,
+          pitch: 10
+        }
+      });
+  map.setStreetView(panorama);
 }
 
 google.maps.event.addDomListener(window, 'load', init);
